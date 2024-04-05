@@ -1,0 +1,1 @@
+﻿xin chao tat ca cac ban da den voi kenh giai ma aes ngay hom nay cua chung toi, hôm nay chúng tôi sẽ hướng dẫn các bạn mã hóa và giải mã 1 file ký tự bằng thuật toán AES 128.
